@@ -246,6 +246,15 @@ a{
 .my-github-link:hover{
     color: #e19e2f;
 }
+.my-linkedin-link:hover{
+    color: #0077B5;
+}
+.my-g-plus-link:hover{
+    color: #d34836;
+}
+.my-blog-link:hover{
+    color: #f01c52;
+}
 .my-mail-link:hover{
     color: #ea8462;
 }
