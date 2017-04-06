@@ -268,7 +268,9 @@ a{
     font-size: 13px;
 }
 .project_technologies{
-    font-size: 14px;
+    font-size: 13px;
+    font-family: monospace;
+    color: deeppink;
 }
 .my-tag{
     font-family: 'Share Tech Mono', monospace;
