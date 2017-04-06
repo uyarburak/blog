@@ -259,13 +259,16 @@ a{
     color: #ea8462;
 }
 .my-item{
-     font-family: 'Playfair Display', serif;    
+    font-family: 'Playfair Display', serif;    
     font-size: 16px;
     margin-bottom: 40px;
 }
 .my-item-sub{
     font-family: 'Share Tech Mono', monospace;
     font-size: 13px;
+}
+.project_technologies{
+    font-size: 14px;
 }
 .my-tag{
     font-family: 'Share Tech Mono', monospace;
