@@ -39,7 +39,8 @@ layout: default
     {% for project in site.data.projects %}
     <li>
       <p class="my-item"><a href="{{ project.link }}" class="my-link">{{ project.name }}</a><br>
-        {{ project.description }}
+        {{ project.description }}<br>
+        <span class="project_technologies">{{ project.technologies }}</span>
       </p>
     </li>
     {% endfor %}
